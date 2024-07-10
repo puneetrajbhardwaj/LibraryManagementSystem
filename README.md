@@ -1,5 +1,12 @@
 # LibraryManagementSystem
 
+# Steps to setup:
+1. download the code and save it in a folder.
+2. install all the required depencies of Python Django including REST Framework.
+3. now run the server using command:
+   python manage.py runserver
+4. Test the Api on below endpoints
+
 # Mentioning the main endpoints:
 
 # User
